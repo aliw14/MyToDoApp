@@ -6,11 +6,14 @@
  */
 
 import React from 'react';
-import {StyleSheet, View} from 'react-native';
-import {SafeAreaProvider} from 'react-native-safe-area-context';
-import  Router  from 'router/Router';
+import { StyleSheet, View } from 'react-native';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+import Router from './src/router/Router';
+import { colors } from './src/theme/colors';
 
-import {colors} from 'theme/colors';
+
+
+
 function App(): React.JSX.Element {
   return (
     <SafeAreaProvider>

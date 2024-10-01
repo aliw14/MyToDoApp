@@ -1,6 +1,6 @@
 import {NativeStackNavigationOptions} from '@react-navigation/native-stack';
-import {colors} from 'theme/colors';
-import {normalize, padding} from 'theme/metrics';
+import {colors} from '../theme/colors';
+import {normalize, padding} from '../theme/metrics';
 
 export const defaultScreenOptions: NativeStackNavigationOptions = {
   headerShown: false,

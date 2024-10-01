@@ -12,11 +12,9 @@
       "configs/*": ["./src/configs/*"],
       "hooks/*": ["./src/hooks/*"],
       "helpers/*": ["./src/helpers/*"],
-      "router/*": ["./src/router/*"],
       "screens/*": ["./src/screens/*"],
       "services/*": ["./src/services/*"],
       "store/*": ["src/store/*"],
-      "theme/*": ["./src/theme/*"],
       "constants/*": ["./src/constants/*"],
       "types/*": ["./src/types/*"],
       "utils/*": ["./src/utils/*"]
